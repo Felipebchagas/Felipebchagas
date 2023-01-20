@@ -1,7 +1,7 @@
 ### Olá
 
 - 🔭 Procurando uma oportunidade em desenvolvimento web
-- 🌱 Estudando Vue.js
+- 🌱 Estudando Vue.js, Laravel
 
 
 <div align="center">
