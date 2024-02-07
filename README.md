@@ -1,7 +1,7 @@
 ### Olá
 
-- 🔭 Procurando uma oportunidade em desenvolvimento web
-- 🌱 Estudando Vue.js, Laravel
+- 🔭 Full Stack Software Engineer
+- 🌱 Vue 2+, Laravel, PHP, Java, C#
 
 
 <div align="center">
