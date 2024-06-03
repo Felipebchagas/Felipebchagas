@@ -1,7 +1,7 @@
 ### Olá
 
 - 🔭 Full Stack Software Engineer
-- 🌱 Vue 2+, Laravel, PHP, Java, C#
+- 🌱 Vue 2+, Laravel, PHP, Java, C#, React and Node
 
 
 <div align="center">
